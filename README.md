@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>"谋事在人, 成事在天。"</h1>
 
-<!--
-**ColinWeiss/ColinWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 碎碎念
 
-Here are some ideas to get you started:
+*有没有一种可能我只懂后半句？*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#写过, 甚至不能称得上会写，最近在玩MonoGame。
+
+以前写过Terraria的Mod, 但是后来弃坑了。
+
+#### 联系方式
+
+QQ 1805094167
+
+Bilibili @ColinWeiss
+
+小蓝鸟 @ColinWeissLin
