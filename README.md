@@ -13,5 +13,3 @@ C#写过, 甚至不能称得上会写，最近在玩MonoGame。
 QQ 1805094167
 
 Bilibili @ColinWeiss
-
-小蓝鸟 @ColinWeissLin
